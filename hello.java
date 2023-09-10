@@ -5,6 +5,6 @@ class a
     {
         System.out.println(x:"hello")
         System.out.println(x:"Pune")
-         System.out.println(x:"Mumbai")
+         System.out.println(x:"Goa")
     }
 }
